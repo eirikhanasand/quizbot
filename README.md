@@ -1,1 +1,1 @@
-Working discord bot. Known error which occationally occurs: cyclic dependency detected. Development discontinued (old project from 2019. Reach out if you would like to continue development of this project.
+Working discord bot. Known error which occationally occurs: cyclic dependency detected. Development discontinued (old project from 2019). Reach out if you would like to continue development of this project.
