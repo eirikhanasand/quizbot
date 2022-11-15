@@ -1,0 +1,262 @@
+[
+    {
+        "question": "Hva heter hovedstaden i Sveits?", 
+        "alt1": "Zürich",
+        "alt2": "Bern",
+        "alt3": "Sydney",
+        "alt4": "Moskva",
+        "alternatives": ["a", "c", "d", "1", "3", "4", "zurich", "zürich", "sydney", "moskva"],
+        "answers": ["b", "2", "bern"],
+        "answer": ["Bern er hovedstaden i Sveits."]
+    },
+    {
+        "question": "Hva heter hovedstaden i Australia?", 
+        "alt1": "Sydney",
+        "alt2": "Brisbane",
+        "alt3": "Melbourne",
+        "alt4": "Canberra",
+        "alternatives": ["a", "b", "c", "1", "2", "3", "sydney", "brisbane", "melbourne"],
+        "answers": ["d", "4", "canberra"],
+        "answer": ["Canberra er hovedstaden i Australia."]
+    },
+    {
+        "question": "Hvem var presidenten i USA for 11 år siden?", 
+        "alt1": "Barrack Obama",
+        "alt2": "Bill Clinton",
+        "alt3": "George W. Bush",
+        "alt4": "Donald Trump",
+        "alternatives": ["a", "b", "d", "1", "2", "4", "bill clinton", "clinton", "bill", "trump", "donald", "donald trump", "barrack", "obama", "barrack obama"],
+        "answers": ["george w. bush", "george", "bush", "c", "3", "george w bush", "george walker bush", "walker", "george bush"],
+        "answer": ["George Walker Bush var Amerikas president i 2009."]
+    },
+    {
+        "question": "Hvilken planet ligger nærmest solen?", 
+        "alt1": "Uranus",
+        "alt2": "Saturn",
+        "alt3": "Merkur",
+        "alt4": "Venus",
+        "alternatives": ["a", "b", "d", "1", "2", "4", "saturn", "uranus", "venus"],
+        "answers": ["3", "c", "merkur"],
+        "answer": ["Merkur ligger nærmest solen."]
+    },
+    {
+        "question": "Hvilke farger er primærfargene?", 
+        "alt1": "Grønn, Gul, Rød",
+        "alt2": "Rød, Gul, Blå",
+        "alt3": "Rød, Blå, Grønn",
+        "alt4": "Grønn, Gul, Blå",
+        "alternatives": ["a", "c", "d", "1", "3", "4", "ggr", "rbg", "ggb"],
+        "answers": ["2", "b", "rgb"],
+        "answer": ["Rød, Gul og Blå er primærfargene."]
+    },
+    {
+        "question": "Hvilken gul planet er omtrent like stor som jorden?", 
+        "alt1": "Venus",
+        "alt2": "NGC 602",
+        "alt3": "Saturn",
+        "alt4": "πλανήτης",
+        "alternatives": [ "b", "c", "d", "2", "3", "4", "ngc 602", "ngc602", "saturn", "πλανήτης"],
+        "answers": ["1", "a", "venus"],
+        "answer": ["Venus er en gulaktig planet på omtrent samme størrelse som jorden."]
+    },
+    {
+        "question": "Har Norge Regnskog", 
+        "alt1": "Ja",
+        "alt2": "Nei",
+        "alt3": "Vet ikke",
+        "alt4": "Litt",
+        "alternatives": ["b", "c", "d", "2", "3", "4", "vet ikke", "vetikke", "nop", "nope", "no", "nei", "litt"],
+        "answers": ["1", "a", "ja", "j", "yes", "ye", "jepp"],
+        "answer": ["Norge har boreal regnskog."]
+    },
+    {
+        "question": "Hvor mange guder er det i Buddhismen?", 
+        "alt1": "4",
+        "alt2": "Altfor mange",
+        "alt3": "Ingen",
+        "alt4": "8",
+        "alternatives": ["a", "b", "d", "1", "2", "4", "altfor mange", "fire", "8", "åtte"],
+        "answers": ["3", "0", "c", "ingen"],
+        "answer": ["Det er ingen guder i Buddhismen."]
+    },
+    {
+        "question": "Hvor mange norske konger har hatt navnet Harald?", 
+        "alt1": "1",
+        "alt2": "3",
+        "alt3": "5",
+        "alt4": "7",
+        "alternatives": ["a", "b", "d", "1", "2", "3", "4", "7", "en", "ein", "tre", "syv", "sju"],
+        "answers": ["5", "fem", "c", "fem"],
+        "answer": ["Norge har hatt fem konger ved navnet Harald."]
+    },
+    {
+        "question": "Hvor mange Oscarer vant filmen Titanic?", 
+        "alt1": "2",
+        "alt2": "5",
+        "alt3": "8",
+        "alt4": "11",
+        "alternatives": ["a", "b", "c", "1", "2", "3", "5", "8", "to", "fem", "åtte"],
+        "answers": ["11", "d", "elleve"],
+        "answer": ["Filmen Titanic vant 11 Oscarer."]
+    },
+    {
+        "question": "I hvilket land ble OL først arrangert?", 
+        "alt1": "Hellas",
+        "alt2": "Tyrkia",
+        "alt3": "USA",
+        "alt4": "England",
+        "alternatives": ["b", "c", "d", "2", "3", "4", "tyrkia", "usa", "england"],
+        "answers": ["1", "a", "hellas"],
+        "answer": ["OL ble først arrangert i Hellas."]
+    },
+    {
+        "question": "I hvilken by ble Anne Franks dagbok skrevet?", 
+        "alt1": "Rotterdam",
+        "alt2": "Amsterdam",
+        "alt3": "Utrecht",
+        "alt4": "Den Haag",
+        "alternatives": ["a", "c", "d", "1", "3", "4", "rotterdam", "utrecht", "denhaag", "den haag"],
+        "answers": ["2", "b", "amsterdam"],
+        "answer": ["Anne Franks dagbok ble skrevet i Amsterdam."]
+    },
+    {
+        "question": "Hvilket år endte den kalde krigen?", 
+        "alt1": "1945",
+        "alt2": "1978",
+        "alt3": "1985",
+        "alt4": "1989",
+        "alternatives": ["a", "b", "c", "1", "2", "3", "1978", "78", "1985", "85", "1945", "45"],
+        "answers": ["1989", "d", "4", "89"],
+        "answer": ["Den kalde krigen endte i år 1989."]
+    },
+    {
+        "question": "Hvilket år dødde Prinsesse Diana?", 
+        "alt1": "1995",
+        "alt2": "1997",
+        "alt3": "1999",
+        "alt4": "2001",
+        "alternatives": ["a", "c", "d", "1", "3", "4", "1995", "1999", "2001"],
+        "answers": ["1997", "2", "b"],
+        "answer": ["Prinsesse Diana døde i år 1997."]
+    },
+    {
+        "question": "Hvilken tastaturoppsett er mest brukt i verden?", 
+        "alt1": "AZERTY",
+        "alt2": "Dvorak",
+        "alt3": "QWERTY",
+        "alt4": "QZERTY",
+        "alternatives": ["a", "b", "d", "1", "2", "4", "azerty", "dvorak", "qzerty"],
+        "answers": ["c", "3", "qwerty"],
+        "answer": ["QWERTY er det mest brukte tastaturoppsettet."]
+    },
+    {
+        "question": "Hvilken type nøtter blir brukt i marsipan?", 
+        "alt1": "Kastanjenøtter",
+        "alt2": "Hasselnøtter",
+        "alt3": "Mandler",
+        "alt4": "Cashewnøtter",
+        "alternatives": ["a", "b", "d", "1", "2", "4", "kastanjenøtter", "hasselnøtter", "cashenøtter"],
+        "answers": ["3", "c", "mandler"],
+        "answer": ["Man bruker mandler i marsipan."]
+    },
+    {
+        "question": "I hvilket land ble Buddha født?", 
+        "alt1": "Israel",
+        "alt2": "Hellas",
+        "alt3": "Kosovo",
+        "alt4": "Nepal",
+        "alternatives": ["a", "b", "c", "1", "2", "3", "israel", "hellas", "kosovo"],
+        "answers": ["4", "d", "nepal"],
+        "answer": ["Buddha ble født i Nepal."]
+    },
+    {
+        "question": "Omtrent hvilket år ble Stavanger grunnlagt?", 
+        "alt1": "1000",
+        "alt2": "1050",
+        "alt3": "1100",
+        "alt4": "1125",
+        "alternatives": ["a", "b", "c", "1", "2", "3", "1000", "1050", "1000"],
+        "answers": ["4", "d", "1125"],
+        "answer": ["Stavanger ble grunnlagt rundt år 1125."]
+    },
+    {
+        "question": "Hvor mange minutter er det i en Rugbykamp?", 
+        "alt1": "60",
+        "alt2": "80",
+        "alt3": "100",
+        "alt4": "120",
+        "alternatives": ["a", "c", "d", "1", "3", "4", "60", "100", "120"],
+        "answers": ["b", "2", "80", "åtti"],
+        "answer": ["Det er 80 minutter i en Rugbykamp."]
+    },
+    {
+        "question": "Hvor mange spillere er det på hvert lag i sandvolleyball?", 
+        "alt1": "2",
+        "alt2": "3",
+        "alt3": "4",
+        "alt4": "5",
+        "alternatives": ["b", "c", "d", "3", "4", "5"],
+        "answers": ["a", "1", "2", "to"],
+        "answer": ["Det er to spillere på hvert lag i sandvolleyball."]
+    },
+    {
+        "question": "Hva heter den nordligste byen hvor OL har vært arrangert?", 
+        "alt1": "Trondheim",
+        "alt2": "Québec",
+        "alt3": "Lillehammer",
+        "alt4": "Nuuk",
+        "alternatives": ["1", "2", "4", "trondheim", "quebec", "québec", "nuuk", "a", "b", "d"],
+        "answers": ["c", "3", "lillehammer"],
+        "answer": ["Den nordligste byen som har arrangert OL er Lillehammer."]
+    },
+    {
+        "question": "Omtrent hvor mange millioner innbyggere er det i Chile?", 
+        "alt1": "16",
+        "alt2": "23",
+        "alt3": "42",
+        "alt4": "51",
+        "alternatives": ["3", "2", "4", "10", "23", "42", "51", "b", "c", "d", "tjue tre", "tjuetre", "tjue-tre", "førti to", "førtito", "førti-to", "femtien", "femti en", "femti-en"],
+        "answers": ["a", "16", "1", "seksten"],
+        "answer": ["Det er omtrent 16 millioner innbyggere i Chile."]
+    },
+    {
+        "question": "Hvor mange land begynner på bokstaven A?", 
+        "alt1": "4",
+        "alt2": "7",
+        "alt3": "10",
+        "alt4": "13",
+        "alternatives": ["1", "2", "4", "7", "a", "b", "d", "13", "fire", "sju", "syv", "tretten"],
+        "answers": ["c", "3", "ti", "10"],
+        "answer": ["Det er 10 land som begynner på bokstaven A."]
+    },
+    {
+        "question": "Hva er verdens dyreste matingrediens?", 
+        "alt1": "Safran",
+        "alt2": "Italiensk hvit trøffel",
+        "alt3": "Yubari kongemelon",
+        "alt4": "Almas Kaviar",
+        "alternatives": ["b", "c", "d", "2", "3", "4", "almas kaviar", "kaviar", "almas", "yubari", "yubari konge", "konge", "yubari kongemelon", "italiensk", "hvit", "trøffel", "italiensk hvit", "italiensk hvit trøffel"],
+        "answers": ["a", "1", "safran"],
+        "answer": ["Verdens dyreste matingrediens er safran, dette krydderet koster mer enn rent gull."]
+    },
+    {
+        "question": "Hvilken hund er verdens minste per nå?", 
+        "alt1": "Chihuahuaen Mirakel Milly",
+        "alt2": "Griffon bruxelloisen Tiko",
+        "alt3": "Toypuddelen Beau Dacious",
+        "alt4": "Pekingeseren Reeses Puppycups",
+        "alternatives": ["b", "c", "d", "2", "3", "4", "griffon", "griffon bruxellois", "griffon bruxelloisen", "griffon bruxelloisen tiko", "tiko", "toypuddelen", "toypuddelen beau dacius", "toypuddelen beau", "beau", "pekingeseren", "pekingeseren reeses", "reeses", "puppycups", "pekingeseren reeses puppycups"],
+        "answers": ["a", "1", "chihuahua", "chihuahuaen", "milly", "mirakel milly", "chihuahuaen mirakel milly", "chihuahuaen milly"],
+        "answer": ["Verdens minste hund er i dag Chihuahuaen Mirakel Milly."]
+    },
+    {
+        "question": "Hvor spises det mest sjokolade per innbygger?", 
+        "alt1": "Tyskland",
+        "alt2": "Belgia",
+        "alt3": "Sveits",
+        "alt4": "England",
+        "alternatives": ["england", "belgia", "norge", "1", "2", "4", "a", "b", "d"],
+        "answers": ["c", "3", "Sveits", "bern"],
+        "answer": ["Det spises mest sjokolade i Sveits. Her spiser hver person 9kg sjokolade i året."]
+    }
+]

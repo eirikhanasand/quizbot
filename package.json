@@ -1,0 +1,26 @@
+{
+  "name": "quizzern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "jade": "^1.11.0",
+    "mongodb": "^3.3.3",
+    "mongoose": "^5.7.11",
+    "ms": "^2.1.2",
+    "nodemon": "^1.19.1",
+    "superagent": "^5.0.9"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
